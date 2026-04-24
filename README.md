@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mayank+%F0%9F%91%8B;Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API+%7C+JPA;Frontend+Enthusiast+%7C+React+Learner;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mayank+%F0%9F%91%8B;Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API+%7C+JPA;Frontend+Enthusiast+%7C+Thymeleaf+%7C+JS;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,35 +55,53 @@ public class Mayank {
 <div align="center">
 
 ### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=java,js,py,html,css,c,cpp,mysql&theme=dark&perline=8" />
 
 ### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman&theme=dark&perline=8" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=8" />
-&nbsp;
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" height="50"/>
+
+<table><tr>
+<td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" width="48"/></td>
+</tr></table>
 
 ### 🗄️ Database
+
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8" />
 
 ### 🧪 Testing
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="50"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=mockito&logoColor=black" height="50"/>
+
+<table><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="48" title="JUnit5"/></td>
+<td><img src="https://img.shields.io/badge/Mockito-35AC42?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSA3aDJ2NmgtMlY3em0wIDhoMnYyaC0ydi0yeiIvPjwvc3ZnPg==&logoColor=white" height="48" title="Mockito"/></td>
+</tr></table>
 
 ### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode,eclipse&theme=dark&perline=8" />
-&nbsp;
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="50"/>
+
+<table><tr>
+<td><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/></td>
+<td><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" title="Swagger"/></td>
+</tr></table>
 
 ### 📚 CS Fundamentals
-<img src="https://skillicons.dev/icons?i=leetcode,linux&theme=dark&perline=8" />
-&nbsp;
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="50"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50"/>
+
+<table><tr>
+<td><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" title="DBMS"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" title="OOP"/></td>
+</tr></table>
 
 </div>
 
@@ -129,16 +147,6 @@ public class Mayank {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank679&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
