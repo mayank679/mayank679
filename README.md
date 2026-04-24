@@ -26,9 +26,9 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Coding GIF"/>
-
 ## 👨‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Coding GIF"/>
 
 ```java
 public class Mayank {
@@ -41,10 +41,8 @@ public class Mayank {
     String[] askMeAbout = {"Spring Boot", "REST APIs", "Web Dev"};
     String pronouns = "He / Him";
 
-    String[] lookingFor = {
-        "Exciting Web Dev collabs 🤝",
-        "Open Source Contributions 🌍"
-    };
+    String[] lookingFor = {"Java Backend Developer roles 🌍"};
+
 }
 ```
 
@@ -57,29 +55,33 @@ public class Mayank {
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,c,cpp,mysql&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,js,py,html,css,c,cpp,mysql&theme=dark&perline=8" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman&theme=dark&perline=8" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,thymeleaf&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" height="50"/>
 
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8" />
 
 ### 🧪 Testing
-<img src="https://skillicons.dev/icons?i=junit&theme=dark&perline=8" />
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="50"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" height="50"/>
+<img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=mockito&logoColor=black" height="50"/>
 
 ### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,swagger,idea,vscode,eclipse&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,vscode,eclipse&theme=dark&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="50"/>
 
 ### 📚 CS Fundamentals
 <img src="https://skillicons.dev/icons?i=leetcode,linux&theme=dark&perline=8" />
 &nbsp;
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="50"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="50"/>
 &nbsp;
 <img src="https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50"/>
 
@@ -132,37 +134,6 @@ public class Mayank {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayank679&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank679&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=1c2a3a" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mayank679/mayank679/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-> 💡 **Enable the snake** — create `.github/workflows/snake.yml` in your profile repo. [Setup guide →](https://github.com/Platane/snk)
-
----
 
 <div align="center">
 
