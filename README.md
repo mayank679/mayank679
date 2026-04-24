@@ -1,97 +1,180 @@
-# Hii I'm Mayank👋 Welcome to My GitHub Profile 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<div align="center">
 
-<!--![banner](https://user-images.githubusercontent.com/74407205/231990386-c5d1c57e-da3d-467e-9d66-0614fe7a72c2.png)-->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:185FA5,100:3C3489&height=250&section=header&text=Mayank%20Raj&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20Frontend%20Enthusiast&descAlignY=65&descSize=20&animation=fadeIn&stroke=185FA5&strokeWidth=2" width="100%"/>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+</div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=mayank679&style=flat-square&color=blue" alt="mayank679" />
-</p>
+<div align="center">
 
-<!-- Place for GIF/image -->
-<img align="right" alt="GIF" src="https://i.redd.it/n8agw6z2smyb1.gif" width="400px" height="250" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mayank+%F0%9F%91%8B;Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API+%7C+JPA;Frontend+Enthusiast+%7C+React+Learner;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🔭 I'm pursuing B.Tech in CSE from the Institute of Engineering & Management, Kolkata
-- 🌱 I'm currently learning Frontend Web Development
-- 👯 I'm looking to collaborate on exciting Web Development projects
-- 🤔 I'm looking for help with mastering React
-- 💬 Ask me about Web Development
-- 😄 Pronouns: He/Him
+</div>
 
-<br>
+<div align="center">
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<img src="https://komarev.com/ghpvc/?username=mayank679&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/mayank679?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0D1117" alt="Followers"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/mayank-raj-1668a42a7/?skipRedirect=true">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<h3 align="left">Tech Stack :</h3>
+</div>
 
-<!-- Place for GIF/image -->
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="200px"/>
+<br/>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="60" width="60" /></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="60" width="60"/></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60" width="60" /></a>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60" width="60"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
+---
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Coding GIF"/>
 
-<h3 align="left">Connect with me :</h3>
+## 👨‍💻 About Me
 
-<p align="center">
-  <!-- LinkedIn profile -->
-  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a> 
-  <!-- Instagram profile -->
-  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a> 
-  <!-- Facebook profile -->
-  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/facebook.png"/></a> 
-  <!-- Twitter profile -->
-  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a> 
-</p>
+```java
+public class Mayank {
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+    String name     = "Mayank Raj";
+    String college  = "IEM, Kolkata";
+    String degree   = "B.Tech CSE";
+    String location = "Kolkata, India 📍";
 
-<h3 align="left">Stats : </h3><br>
+    String[] askMeAbout = {"Spring Boot", "REST APIs", "Web Dev"};
+    String pronouns = "He / Him";
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank679&show_icons=true&locale=en&layout=compact&theme=radical" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=mayank679&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-</td>
-</tr>
-</table>
+    String[] lookingFor = {
+        "Exciting Web Dev collabs 🤝",
+        "Open Source Contributions 🌍"
+    };
+}
+```
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank679&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
-</p>
+<br clear="right"/>
 
-<br>
+---
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+## 🛠️ Tech Stack
 
-<h3 align="left">🏆 GitHub Trophies :</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mayank679&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,c,cpp,mysql&theme=dark&perline=8" />
 
-<br>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman&theme=dark&perline=8" />
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,thymeleaf&theme=dark&perline=8" />
 
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8" />
 
+### 🧪 Testing
+<img src="https://skillicons.dev/icons?i=junit&theme=dark&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" height="50"/>
 
-<p align="center"><br><br>
-  <samp>
-    <i>Thanks for visiting my profile.<br>If you found it interesting, please leave a ⭐️</i> 
-  </samp>
-</p>
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,swagger,idea,vscode,eclipse&theme=dark&perline=8" />
 
-<p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Have%20a%20Nice%20Day"/>
-</p>
+### 📚 CS Fundamentals
+<img src="https://skillicons.dev/icons?i=leetcode,linux&theme=dark&perline=8" />
+&nbsp;
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white" height="50"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="50"/>
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mayank-raj-1668a42a7/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/mayank679" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/mayank679" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mayank679&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank679&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="42%" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank679&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mayank679&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank679&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area_color=1c2a3a" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mayank679/mayank679/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+> 💡 **Enable the snake** — create `.github/workflows/snake.yml` in your profile repo. [Setup guide →](https://github.com/Platane/snk)
+
+---
+
+<div align="center">
+
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:3C3489&height=140&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
